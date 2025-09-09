@@ -12,6 +12,42 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="assets/images/863shots_so.png" width="220"/></td>
+    <td><img src="assets/images/841shots_so.png" width="220"/></td>
+    <td><img src="assets/images/743shots_so.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><b>Home</b></td>
+    <td><b>Quran Reader</b></td>
+    <td><b>Daily Dhikr</b></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td><img src="assets/images/575shots_so.png" width="220"/></td>
+    <td><img src="assets/images/484shots_so.png" width="220"/></td>
+    <td><img src="assets/images/159shots_so.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><b>Spiritual Radio</b></td>
+    <td><b>Hadith & Wisdom</b></td>
+    <td><b>Dark Mode</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📱 Features
 
 - 📖 **Quran Reader**  
